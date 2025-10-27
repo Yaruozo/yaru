@@ -1,6 +1,6 @@
 <img src="banner-github.png">
 
-# Hi 👋, I'm Mark and you can call me REN
+# Hi 👋, I'm Mark and you can call me Yaru
 
 A full-stack developer with a specialization in frontend development.
 
