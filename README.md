@@ -9,7 +9,7 @@ A full-stack developer with a specialization in frontend development.
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,elixir" alt="language">
+<img src="https://skillicons.dev/icons?i=js,html,java,c#," alt="language">
 </p>
 
 <h3 align="left">Frontend Frameworks:</h3>
