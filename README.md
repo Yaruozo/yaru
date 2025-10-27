@@ -1,5 +1,3 @@
-<img src="banner-github.png">
-
 # Hi 👋, I'm Mark and you can call me Yaru
 
 A full-stack developer with a specialization in frontend development.
@@ -16,20 +14,20 @@ A full-stack developer with a specialization in frontend development.
 
 <h3 align="left">Frontend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=next,react,angular,vite,astro,tailwind,bootstrap,electron" alt="frontend">
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="frontend">
 </p>
 
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=express,fastapi,firebase,graphql,nestjs,appwrite,supabase" alt="backend">
+<img src="https://skillicons.dev/icons?i=laravel" alt="backend">
 </p>
 
 <h3 align="left">Databases:</h3>
 <p align="left">
-<img  src="https://skillicons.dev/icons?i=postgres,mongo,sqlite,redis,cassandra" alt="database">
+<img  src="https://skillicons.dev/icons?i=mysql" alt="database">
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,prisma,cloudflare,jest,postman,nodejs,npm,yarn,pnpm,jquery,bash,vscode,figma,threejs,webpack,materialui,gcp,sentry,jquery,redux,vercel,netlify" alt="tools">
+<img src="https://skillicons.dev/icons?i=docker,git,github,bash,vscode,figma" alt="tools">
 </p>
