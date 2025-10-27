@@ -4,9 +4,6 @@ A full-stack developer with a specialization in frontend development.
 
 - 🔭 I'm currently studying at STI College Munoz-EDSA 
 
-  
-![Visitors](https://komarev.com/ghpvc/?username=Mabsrencode&color=green&style=flat-square&label=Profile%20Views)
-
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,html,java,c#," alt="language">
