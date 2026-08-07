@@ -1,8 +1,4 @@
-# Hi 👋, I'm Mark and you can call me Yaru
-
-A full-stack developer with a specialization in frontend development.
-
-- 🔭 Graduated at STI College Munoz-EDSA 
+# Hi 👋, I'm Yaru
 
 <h3 align="left">Languages:</h3>
 <p align="left">
