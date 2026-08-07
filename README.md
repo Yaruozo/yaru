@@ -2,7 +2,7 @@
 
 A full-stack developer with a specialization in frontend development.
 
-- 🔭 I'm currently studying at STI College Munoz-EDSA 
+- 🔭 Graduated at STI College Munoz-EDSA 
 
 <h3 align="left">Languages:</h3>
 <p align="left">
